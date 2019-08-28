@@ -1,0 +1,10 @@
+Shiyan Yang
+Courses :- Programming Languages and Techniques, Introduction to Networks and Protocols, Intro to Optimization Theory, Machine Perception, Digital Integrated Circuits AND VLSI Fundamentals
+Projects
+Encryption Scanning Technology based on Multispectral Image Compression, Chengdu, China - Analyzing data and testintg program
+Network Experiments with Mininet, Philadelphia, USA - generating topology and installing components
+Financial Optimization for Customers to Meet Their Personal Finance Goals, Philadelphia, USA - organizing data and writing gams codes
+Image Processing based on projective geometry and homographies, Philadelphia, USA - writing MATLAB codes
+Static and dynamic Performance of MOS Inverters, Philadelphia, USA - using Cadence for simulation
+------------------------------
+shiyan@seas.upenn.edu
